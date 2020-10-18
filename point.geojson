@@ -1,1 +1,15 @@
-{"coordinates": [-115.81, 37.24], "type": "Point"}
+
+ {"type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#29e5ea",
+        "marker-size": "big",
+        "marker-symbol": "building",
+        "name": "KCL"
+      },
+      "geometry": KCL_Geometry
+    }
+  ]
+}
