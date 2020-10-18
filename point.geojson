@@ -9,7 +9,11 @@
         "marker-symbol": "building",
         "name": "KCL"
       },
-      "geometry": KCL_Geometry
+      "geometry": {
+        "type": "Point",
+
+        "coordinates": [-0.11596798896789551,51.51130657591914]
+      }
     }
   ]
 }
