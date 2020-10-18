@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#29E5EA",
-        "marker-size": "big",
+        "marker-color": "#EC3616",
+        "marker-size": "medium",
         "marker-symbol": "building",
         "name": "KCL"
       },
