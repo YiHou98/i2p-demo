@@ -14,6 +14,8 @@ Inside Airbnb, an independent, non-commercial project collected the data. Many p
 ### 2. Why did they collect it?
 
 They want to see how Airbnb is being used to compete with the residential housing market. And they hope to get to the core of the debate for many cities around the world, and use the data to answer both fundemental and complicated questions about Airbnb in any neighbourhood or across the city as a whole.
+Firstly, Airbnb is a house sharing platform and by collecting data, people can see how Airbnb is being used to compete with the residential housing market.
+Also, its data can also reveal some urban issues. From the reviews and other characters of housing, 
 
 ---
 
