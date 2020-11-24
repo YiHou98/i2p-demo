@@ -30,13 +30,14 @@ Neighbourhood names are cleansed and compiled by comparing the listing's geograp
 
 ### 4. What useful information does it contain?
 
-There are 
 1.Information of Host
-This part of information includes name,hosting time,host location,self description, response rate and acceptance rate, whether a superhost, picture, listings count and verification information of host. 
-2.Information of the flat
-The location, property type, room type, accomodates, amenties and price.
+This part of information includes name,hosting time,host location,self description, response rate and acceptance rate, whether a superhost, picture, count of different types of listings and verification information of host. 
+2.Information of the flat physical
+The location, property type, room type, accomodates, bathrooms, bedrooms,beds and amenties.
 3. Information of rent
-
+Price, minimum nights, maximum nights and availability of different periods.
+4. Information of reviews
+Number of reviews of different periods, first review time, last review time and review score in different aspects.
 
 
 
