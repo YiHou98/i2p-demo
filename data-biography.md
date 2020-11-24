@@ -23,19 +23,30 @@ Also, its data can also reveal some urban issues. From the reviews and other cha
 
 The data utilizes public information complied from the Airbnb web-site including the availability calendar for 365 days in the future, and the reviews for each listing.
 Then data is verified, cleansed, and analyzed and aggregated. 
-Location information for listings are anonymized by Airbnb.
+Location information for listings are anonymized by Airbnb. 
+Neighbourhood names are cleansed and compiled by comparing the listing's geographic coordinates with a city's definition of neighbourhoods. Airbnb neighbourhood names are not used because of their inaccuracies.
 
 ---
 
 ### 4. What useful information does it contain?
 
-_your answer here_
+There are 
+1.Information of Host
+This part of information includes name,hosting time,host location,self description, response rate and acceptance rate, whether a superhost, picture, listings count and verification information of host. 
+2.Information of the flat
+The location, property type, room type, accomodates, amenties and price.
+3. Information of rent
+
+
+
 
 ---
 
 ### 5. What useful information does is it missing?
 
-_your answer here_
+The comments of reviews
+Also, sometimes Airbnb may remove and hide some unwanted listings, 
+Time series data:
 
 ---
 
@@ -47,14 +58,15 @@ _your answer here_
 
 ### 7. What kinds of analysis would this support?
 
-_your answer here_
+1.Analysis about housing markets from an ecconomic perspective
+Airbnb is an online home-sharing platform, and from the data of Airbnb listings, 
 
 ---
 
 ### 8. What kinds of analysis would it _not_support?
 
-_your answer here_
-
+1.Deep study of user experiences. Because of the absense of user comments, we can only get the review rates but cannot get the comments of users. Thus it is impossible to study their sentiments and find out how users evaluate their experience and what they really care about.()
+2. Airbnb impact on other
 ---
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
