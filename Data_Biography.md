@@ -129,7 +129,7 @@ _When we want to deeply explore the attributes of the hosts and consumers, we ne
 
 _2. Photos_
 
-_We hope to analysis whether the picture of a host can contribute to the trustworthiness with guests, however, this is the privacy of the host even if the picture is published publicly. _
+_We hope to analysis whether the picture of a host can contribute to the trustworthiness with guests, however, this is the privacy of the host even if the picture is published publicly._
 
 _3. Other personal information_
 
