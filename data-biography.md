@@ -34,37 +34,58 @@ _Neighbourhood names are cleansed and compiled by comparing the listing's geogra
 
 _1. Information of Host_
 
-This part of information includes name,hosting time,host location,self-description, response rate and acceptance rate, whether the host a superhost, picture, count of different types of listings and verification information of host. 
+_This part of information includes name,hosting time,host location,self-description, response rate and acceptance rate, whether the host a superhost, picture, count of different types of listings and verification information of host._
 
-_2.Information of the flat_
+_2. Information of the flat_
 
-Including the location, property type, room type, accommodations, bathrooms, bedrooms, beds and amenities.
+_Including the location, property type, room type, accommodations, bathrooms, bedrooms, beds and amenities._
 
 _3. Information of rent_
 
-Price, minimum nights, maximum nights and availability for different periods.
+_Price, minimum nights, maximum nights and availability for different periods._
 
 _4. Information of reviews_
-Number of reviews of different periods, reviews per month, first review time, last review time, and review score of different aspects.
+
+_Number of reviews of different periods, reviews per month, first review time, last review time, and review score of different aspects._
 
 
 
 ---
 
-### 5. What useful information does is it missing?
+### 5. What useful information is it missing?
 
-1.The comments of reviews
-2.Time series data such as the daily price of each flat
-3.cancellation policy
-4.house rules such as whether the host allows pets, parties or smoking.
-5. Information of guests.
-Also, sometimes Airbnb may remove and hide some unwanted listings, 
+_Host response rate is the percentage of new queries and reservation requests hosts responded to, not including the rate hosts responded to reviews._
+
+_Many fields of information provided by the hosts, such as name, location, picture and the flat information cannot be verified and true information may be missing._
+
 
 ---
 
 ### 6. To what extent is the data 'complete'?
 
-_your answer here_
+
+_This dataset includes many useful information related with host, flat, rent and consumers' reviews. These information are rather fundamental and can be used for some basic studies. However, some critical information is still missing.
+
+_1. The comments of reviews_
+
+_ This makes it impossible for us to study the feelings of consumers.
+
+_2. Time series data such as the daily price of each flat_
+
+_This dataset only includes the average price in the last 14 days without the detailed time series data. 
+
+_3. Landlord of the flat_
+
+_4. Target guests of the flat_
+
+_It is impossible to determine whether the listings are available for short-term holiday renting or just conventional bed and breakfast accommodations._
+
+_5. House rules such as whether the host allows pets, parties or smoking._
+
+_6. Information of guests_
+
+_Finally, sometimes Airbnb may remove and hide some unwanted listings which makes information incomplete and biased._
+
 
 ---
 
@@ -100,7 +121,7 @@ _4. Analysis about whether Airbnb is a kind of sharing economy and how it affect
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
-_your answer here_
+
 
 
 
