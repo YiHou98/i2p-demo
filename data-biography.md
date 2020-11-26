@@ -60,16 +60,16 @@ _your answer here_
 
 ### 7. What kinds of analysis would this support?
 
-_1. Analysis based on price.
+_1. Analysis based on price._
 * We can study how host’s and the product’s attributes affect the consumers' choices.
 * We can study the differences of Airbnb prices between different areas.
 * We can compare Airbnb’s price with other housing actors.
-2. Analysis based on consumer experience. We can study how host’s and the product’s attributes affect consumers’ choices and review scores.
-3. Analysis based on the location of the flats.
+_2. Analysis based on consumer experience. We can study how host’s and the product’s attributes affect consumers’ choices and review scores._
+_3. Analysis based on the location of the flats._
 * We can study the spatial pattern of Airbnb in different areas in UK.
 * We can study spatial correlation between Airbnb flats.
 * We can study what are the determinants of Airbnb location in different areas in UK. For instance, if there are more Airbnb listings in the areas with more tourists.
-4. Impact of Airbnb on local housing markets._
+_4. Impact of Airbnb on local housing markets._
 
 ---
 
