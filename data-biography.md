@@ -6,37 +6,47 @@
 
 ### 1. Who collected the data?
 
-Inside Airbnb, an independent, non-commercial project collected the data. Many people are involved in the project including community activist, urban planner, technicans and others who are interested in this project.
+_Inside Airbnb, an independent, non-commercial project which was brought to us by Murray Cox collected the data. Many other people are involved in the project._
 
 ---
 
 ### 2. Why did they collect it?
 
-They want to see how Airbnb is being used to compete with the residential housing market. And they hope to get to the core of the debate for many cities around the world, and use the data to answer both fundemental and complicated questions about Airbnb in any neighbourhood or across the city as a whole.
-Firstly, Airbnb is a house sharing platform and by collecting data, people can see how Airbnb is being used to compete with the residential housing market.
-Also, its data can also reveal some urban issues. From the reviews and other characters of housing, 
+_Airbnb is a popular house sharing platform. By collecting data, people can see how Airbnb is being used to compete with the residential housing market._
+
+_Airbnb also have impacts on many social and economic issues in cities. They hope to use the data to answer some questions related with Airbnb._
+
 
 ---
 
 ### 3. How was it collected?
 
-The data utilizes public information complied from the Airbnb web-site including the availability calendar for 365 days in the future, and the reviews for each listing.
-Then data is verified, cleansed, and analyzed and aggregated. 
-Location information for listings are anonymized by Airbnb. 
-Neighbourhood names are cleansed and compiled by comparing the listing's geographic coordinates with a city's definition of neighbourhoods. Airbnb neighbourhood names are not used because of their inaccuracies.
+_The data utilizes public information complied from the Airbnb web-site including the availability calendar for 365 days in the future, and the reviews for each listing._
+
+_Data is verified, cleansed, analysed and aggregated._
+
+_Neighbourhood names are cleansed and compiled by comparing the listing's geographic coordinates with a city's definition of neighbourhoods. Airbnb neighbourhood names are not used because of their inaccuracies._
+
 
 ---
 
 ### 4. What useful information does it contain?
 
-1.Information of Host
-This part of information includes name,hosting time,host location,self description, response rate and acceptance rate, whether a superhost, picture, count of different types of listings and verification information of host. 
-2.Information of the flat
-The location, property type, room type, accomodates, bathrooms, bedrooms,beds and amenties.
-3. Information of rent
-Price, minimum nights, maximum nights and availability of different periods.
-4. Information of reviews
-Number of reviews of different periods, first review time, last review time and review score in different aspects.
+_1. Information of Host_
+
+This part of information includes name,hosting time,host location,self-description, response rate and acceptance rate, whether the host a superhost, picture, count of different types of listings and verification information of host. 
+
+_2.Information of the flat_
+
+Including the location, property type, room type, accommodations, bathrooms, bedrooms, beds and amenities.
+
+_3. Information of rent_
+
+Price, minimum nights, maximum nights and availability for different periods.
+
+_4. Information of reviews_
+Number of reviews of different periods, reviews per month, first review time, last review time, and review score of different aspects.
+
 
 
 ---
