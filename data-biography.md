@@ -1,6 +1,6 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 20073544
 
 ---
 
@@ -21,7 +21,7 @@ _Airbnb also have impacts on many social and economic issues in cities. They hop
 
 ### 3. How was it collected?
 
-_The data utilizes public information complied from the Airbnb web-site including the availability calendar for 365 days in the future, and the reviews for each listing._
+_The data utilizes public information complied from the Airbnb website including the availability calendar for 365 days in the future, and the reviews for each listing._
 
 _Data is verified, cleansed, analysed and aggregated._
 
@@ -64,15 +64,15 @@ _Many fields of information provided by the hosts, such as name, location, pictu
 ### 6. To what extent is the data 'complete'?
 
 
-_This dataset includes many useful information related with host, flat, rent and consumers' reviews. These information are rather fundamental and can be used for some basic studies. However, some critical information is still missing.
+_This dataset includes many useful information related with host, flat, rent and consumers' reviews. These information are rather fundamental and can be used for some basic studies. However, some critical information is still missing._
 
 _1. The comments of reviews_
 
-_ This makes it impossible for us to study the feelings of consumers.
+_This makes it impossible for us to study the feelings of consumers._
 
-_2. Time series data such as the daily price of each flat_
+_2. Time series data such as the daily price of each flat._
 
-_This dataset only includes the average price in the last 14 days without the detailed time series data. 
+_This dataset only includes the average price in the last 14 days without the detailed time series data._
 
 _3. Landlord of the flat_
 
@@ -109,9 +109,9 @@ _4. Impact of Airbnb on local housing markets._
 
 ### 8. What kinds of analysis would it _not_support?
 
-_1. Deep study of user experiences. It is impossible to study consumers’ sentiments and find out how users evaluate their experience and what they really care about.(care about )_
+_1. Deep study of user experiences. It is impossible to study consumers’ sentiments and find out how users evaluate their experience and what they really care about._
 
-_2. Relation between hosts and guests.We cannot study how hosts and guests judge each other by their gender, race and other characters, which is the digital discrimination(The sharing economy and digital discrimination: The case of Airbnb)._
+_2. Relation between hosts and guests.We cannot study how hosts and guests judge each other by their gender, race and other characters, which is the digital discrimination._
 
 _3. Preferences of different types of consumers._
 
@@ -121,7 +121,28 @@ _4. Analysis about whether Airbnb is a kind of sharing economy and how it affect
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
+_When we use the data from Airbnb or other datasets, although Inside Airbnb uses the public information complied from the Airbnb website, the ethical issues occur inevitably since both the hosts and guests are not well informed about the use of their data._
 
+_Thus, I will firstly list what data used in above-mentioned studies are sensitive and then justify the ethics of these analysis._
 
+_1. Text messages_
 
+_When we want to deeply explore the attributes of the hosts and consumers, we need to do text analysis for their self-description or reviews. However, people who sent these text messages did not consent to our particular use [1]. So this is not ethical.
 
+_2. Photos_
+
+_We hope to analysis whether the picture of a host can contribute to the trustworthiness with guests, however, this is the privacy of the host even if the picture is published publicly. _
+
+_3. Other personal information_
+
+_From the pictures of hosts, we can collect data about their gender and race. However, these are all privacy information of people, and it is not ethical to use them._
+
+_4. Geodata_
+
+_We need to use the location information of flat to do spatial analysis.  We do use the location data but we don’t use the specific name of each flat since the neighbourhood names are cleansed and compiled by comparing the listing's geographic coordinates. Also, the studies don’t focus on the location of specific flat, but the special pattern of all Airbnb flats in the area. So I think these studies are ethical._
+
+_Finally, I think the studies involves the picture, gender, race and texts of people are not ethical enough. Analysis based on price not exploring the privacy of hosts, analysis based on location of flats, and analysis about the impact of Airbnb on housing markets are ethnical._
+
+### References:
+
+[1]     1. K. Crawford, M. Finn, "The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters," _GeoJournal,_ vol.80, pp.491–502, Nov 2014.
