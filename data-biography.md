@@ -78,16 +78,12 @@ _4. Impact of Airbnb on local housing markets._
 
 ### 8. What kinds of analysis would it _not_support?
 
-1.Deep study of user experiences. Because of the absense of user comments, we can only get the review rates but cannot get the comments of users. Thus it is impossible to study their sentiments and find out how users evaluate their experience and what they really care about.(care about )
+_1. Deep study of user experiences. It is impossible to study consumers’ sentiments and find out how users evaluate their experience and what they really care about.(care about )_
+_2. Relation between hosts and guests._
+We cannot study how hosts and guests judge each other by their gender, race and other characters, which is the digital discrimination(The sharing economy and digital discrimination: The case of Airbnb).
+_3. Preferences of different types of consumers._
+_4. Analysis about whether Airbnb is a kind of sharing economy and how it affect the local communities._
 
-2. Price change
-3. Relation between hosts and guests.
-Since data doesn't include the information of guests, we cannot study how hosts and guests judge each other. To be more exact, we don't know how guests judge hosts by their gender, race and other characters, and  such as the digital discrimination(The sharing economy and digital discrimination: The case of Airbnb).
-4.What the preferences of different types of consumers
-For instance, what types of consumers perfer to shared rooms rather than entire rooms.
-
-4. Analysis about whether Airbnb is a kind of sharing economy and how it affect the local communities
-It is not possible to determine whether the listings have long been available for short-term holiday renting or just conventional bed and breakfast accomodations. Also we don't know who is the landlord of each listing. 
 ---
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
