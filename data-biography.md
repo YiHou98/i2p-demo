@@ -79,9 +79,11 @@ _4. Impact of Airbnb on local housing markets._
 ### 8. What kinds of analysis would it _not_support?
 
 _1. Deep study of user experiences. It is impossible to study consumers’ sentiments and find out how users evaluate their experience and what they really care about.(care about )_
-_2. Relation between hosts and guests._
-We cannot study how hosts and guests judge each other by their gender, race and other characters, which is the digital discrimination(The sharing economy and digital discrimination: The case of Airbnb).
+
+_2. Relation between hosts and guests.We cannot study how hosts and guests judge each other by their gender, race and other characters, which is the digital discrimination(The sharing economy and digital discrimination: The case of Airbnb)._
+
 _3. Preferences of different types of consumers._
+
 _4. Analysis about whether Airbnb is a kind of sharing economy and how it affect the local communities._
 
 ---
