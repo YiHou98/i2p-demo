@@ -1,4 +1,3 @@
-this is the accessment2 for I2P
 # Data Biography
 
 ## Student Number: XXXXXXX
@@ -61,32 +60,31 @@ _your answer here_
 
 ### 7. What kinds of analysis would this support?
 
-1.Analysis about how host and the product affect the consumers' choices. 
-The host's attributes consist of the reputation based on review scores, photo and self description(trust and reputation the role of personal). 
-With the product's information, we can also study what are the preferences of consumers.
-
-2.Analysis based on the location of the flats
-We can study the spatial coorelation bewteen Airbnb flats, and what are the determinants of Airbnb location.
-
-3.Analysis about how host and the product affect the price.
-We can study how the host's and flat's attributes affect the price.
-
-4. Which factors are related with short-term or long-term rental
-We can analyse if the minimum and maximum nights are related with the location of the flat and host information. For instance, if there are more short-term rentals in areas with more tourists.
-
-5. impact of Airbib on housing markets
+_1. Analysis based on price._
+_* We can study how host’s and the product’s attributes affect the consumers' choices._
+* We can study the differences of Airbnb prices between different areas.
+* We can compare Airbnb’s price with other housing actors.
+2. Analysis based on consumer experience. We can study how host’s and the product’s attributes affect consumers’ choices and review scores.
+3. Analysis based on the location of the flats.
+* We can study the spatial pattern of Airbnb in different areas in UK.
+* We can study spatial correlation between Airbnb flats.
+* We can study what are the determinants of Airbnb location in different areas in UK. For instance, if there are more Airbnb listings in the areas with more tourists.
+_4. Impact of Airbnb on local housing markets._
 
 ---
 
 ### 8. What kinds of analysis would it _not_support?
 
 1.Deep study of user experiences. Because of the absense of user comments, we can only get the review rates but cannot get the comments of users. Thus it is impossible to study their sentiments and find out how users evaluate their experience and what they really care about.(care about )
+
 2. Price change
 3. Relation between hosts and guests.
 Since data doesn't include the information of guests, we cannot study how hosts and guests judge each other. To be more exact, we don't know how guests judge hosts by their gender, race and other characters, and  such as the digital discrimination(The sharing economy and digital discrimination: The case of Airbnb).
 4.What the preferences of different types of consumers
 For instance, what types of consumers perfer to shared rooms rather than entire rooms.
 
+4. Analysis about whether Airbnb is a kind of sharing economy and how it affect the local communities
+It is not possible to determine whether the listings have long been available for short-term holiday renting or just conventional bed and breakfast accomodations. Also we don't know who is the landlord of each listing. 
 ---
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
