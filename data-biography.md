@@ -64,12 +64,17 @@ _your answer here_
 1.Analysis about how host and the product affect the consumers' choices. 
 The host's attributes consist of the reputation based on review scores, photo and self description(trust and reputation the role of personal). 
 With the product's information, we can also study what are the preferences of consumers.
+
 2.Analysis based on the location of the flats
 We can study the spatial coorelation bewteen Airbnb flats, and what are the determinants of Airbnb location.
+
 3.Analysis about how host and the product affect the price.
 We can study how the host's and flat's attributes affect the price.
-2. Which factors are related with short-term or long-term rental
+
+4. Which factors are related with short-term or long-term rental
 We can analyse if the minimum and maximum nights are related with the location of the flat and host information. For instance, if there are more short-term rentals in areas with more tourists.
+
+5. impact of Airbib on housing markets
 
 ---
 
