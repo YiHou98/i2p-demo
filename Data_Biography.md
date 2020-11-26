@@ -1,6 +1,6 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 20073544
 
 ---
 
@@ -91,6 +91,7 @@ _1. Analysis based on price._
 * We can study how host’s and the product’s attributes affect the consumers' choices.
 * We can study the differences of Airbnb prices between different areas.
 * We can compare Airbnb’s price with other housing actors.
+
 _2. Analysis based on consumer experience. We can study how host’s and the product’s attributes affect consumers’ choices and review scores._
 
 _3. Analysis based on the location of the flats._
@@ -124,7 +125,7 @@ _Thus, I will firstly list what data used in above-mentioned studies are sensiti
 
 _1. Text messages_
 
-_When we want to deeply explore the attributes of the hosts and consumers, we need to do text analysis for their self-description or reviews. However, people who sent these text messages did not consent to our particular use(crisis data). So this is not ethical.
+_When we want to deeply explore the attributes of the hosts and consumers, we need to do text analysis for their self-description or reviews. However, people who sent these text messages did not consent to our particular use(crisis data). So this is not ethical._
 
 _2. Photos_
 
@@ -138,7 +139,7 @@ _4. Geodata_
 
 _We need to use the location information of flat to do spatial analysis.  We do use the location data but we don’t use the specific name of each flat since the neighbourhood names are cleansed and compiled by comparing the listing's geographic coordinates. Also, the studies don’t focus on the location of specific flat, but the special pattern of all Airbnb flats in the area. So I think these studies are ethical._
 
-_Finally, I think the studies involves the picture, gender, race and texts of people are not ethical enough. Analysis based on price not exploring the privacy of hosts,  analysis based on location of flats, and analysis about the impact of Airbnb on housing markets are ethnical.
+_Finally, I think the studies involves the picture, gender, race and texts of people are not ethical enough. Analysis based on price not exploring the privacy of hosts,  analysis based on location of flats, and analysis about the impact of Airbnb on housing markets are ethnical._
 
 
 ### References:
